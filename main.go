@@ -49,3 +49,5 @@ func CreerCompteHandler(w http.ResponseWriter, r *http.Request) {
 
 	fmt.Fprintf(w, "Compte créé avec succès pour %s", nom)
 }
+
+//aled
